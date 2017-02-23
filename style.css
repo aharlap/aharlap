@@ -1,0 +1,10 @@
+body {
+  padding-top: 80px;
+  font-family: "Merriweather",serif;
+  font-size: 1.6em;
+}
+
+h1, h2, h3 {
+  color: rgb(255, 163, 5);
+  font-family: "Lato",sans-serif;
+}
